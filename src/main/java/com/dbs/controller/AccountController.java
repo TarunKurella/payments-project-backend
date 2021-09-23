@@ -15,6 +15,8 @@ import com.dbs.beans.Account;
 import com.dbs.repo.AccountRepo;
 import com.dbs.service.AccountService;
 
+
+// account class, for storing bank's customers data
 @RestController
 public class AccountController {
 
